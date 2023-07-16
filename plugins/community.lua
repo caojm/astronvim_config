@@ -6,6 +6,7 @@ return {
 
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
+  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
+  { import = "astrocommunity.motion.vim-matchup" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
